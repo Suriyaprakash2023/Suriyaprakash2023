@@ -161,8 +161,8 @@
 
 <ul>
 
-<a href="mailto:starindia3690@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail:  Pradip Kachhadiya-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:sksuriyakannan@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail:  Suriya Prakash-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://stackoverflow.com/users/14131913/pradip" target="_blank">
