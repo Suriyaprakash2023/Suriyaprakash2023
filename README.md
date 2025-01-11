@@ -16,7 +16,7 @@
 - Ask from me anything you want, If I am alive I will answer within seconds 😉
 
 - Currently learning DevOps and AI/ML 😎
-- View My <a href="https://portfolio-efp6.onrender.com" target="_blank">Portfolio</a>🙌
+- View My <a target="_blank" href="https://portfolio-efp6.onrender.com" target="_blank">Portfolio</a>🙌
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -155,7 +155,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -165,9 +164,7 @@
 <img src="https://img.shields.io/badge/Gmail:  Suriya Prakash-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://stackoverflow.com/users/14131913/pradip" target="_blank">
-<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="margin-bottom: 5px;" />
-</a>
+
 
 </ul>
 </div>
