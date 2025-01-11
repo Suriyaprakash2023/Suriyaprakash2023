@@ -16,7 +16,7 @@
 - Ask from me anything you want, If I am alive I will answer within seconds 😉
 
 - Currently learning DevOps and AI/ML 😎
-
+- View My <a href="https://portfolio-efp6.onrender.com" target="_blank">Portfolio</a>🙌
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -139,7 +139,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pradip369&theme=dracula&hide_border=false)<br/>
+![](https://raw.githubusercontent.com/Suriyaprakash2023/PortFolio/1733ceaa008909488771077664999429b826b31e/staticfiles/images/svg/git%20contribution.svg)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradip369&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
