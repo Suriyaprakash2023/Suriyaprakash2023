@@ -146,7 +146,7 @@
 <br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pradip369&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png)
 
 <br>
 <br>
