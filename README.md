@@ -140,7 +140,7 @@
 
 ## 📊 GitHub Stats
 ![](https://github.com/Suriyaprakash2023/Suriyaprakash2023/blob/main/overview.svg)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?)
+![](https://github.com/Suriyaprakash2023/Suriyaprakash2023/blob/main/languages.svg)
 
 <br>
 <br>
