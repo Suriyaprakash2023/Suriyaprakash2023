@@ -11,7 +11,7 @@
 
 - A passionate Self-taught Full-Stack developer 🥰
 
-- Help to Python and JS community on <a target="_blank" href="https://stackoverflow.com/users/14131913/pradip">stackoverflow</a> at spare time 🤩
+- Help to Python and JS community on <a target="_blank" href="https://www.python.org/">stackoverflow</a> at spare time 🤩
 
 - Ask from me anything you want, If I am alive I will answer within seconds 😉
 
